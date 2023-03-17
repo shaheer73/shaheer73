@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Hi there, I'm Shaheer 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shaheer73&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer73" /> </p></h1>
+  <h1>Hi there, I'm Shaheer 👋 <p> <img src="https://komarev.com/ghpvc/?username=shaheer73&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer73" /> </p></h1>
   
 </div>
 
