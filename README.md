@@ -1,7 +1,4 @@
-<div>
-  <h1>Hi there, I'm Shaheer 👋 <p> <img src="https://komarev.com/ghpvc/?username=shaheer73&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer73" /> </p></h1>
-  
-</div>
+<h1>Hi there, I'm Shaheer 👋 <img src="https://komarev.com/ghpvc/?username=shaheer73&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer73"</h1>
 
 <h3 align="center">Computer Engineering Student @ UWaterloo</h3>
 
