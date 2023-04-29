@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **anything software-related!**
 
-- 📫 How to reach me: **hasanshaheer@yahoo.com or s46hasan@uwaterloo.ca**
+- 📫 How to reach me: **s46hasan@uwaterloo.ca**
 
 - ⚡ Fun fact: **Love playing and watching sports!**
 
