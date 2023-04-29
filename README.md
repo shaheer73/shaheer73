@@ -3,16 +3,17 @@
 
 
 <h3 align="left">Computer Engineering Student @ UWaterloo</h3>
-
+  <img align="right" width="300" height="300" src="https://github.com/shaheer73/shaheer73/blob/main/GIF.gif">
 
 - 🔭 I’m currently working on **a project in Python**
+  
 
 - 💬 Ask me about **anything software-related!**
 
 - 📫 How to reach me: **s46hasan@uwaterloo.ca**
 
 - ⚡ Fun fact: **Love playing and watching sports!**
-  <img align="right" width="300" height="300" src="https://github.com/shaheer73/shaheer73/blob/main/GIF.gif">
+
 
 
 <h3 align="left">Languages and Tools:</h3>
