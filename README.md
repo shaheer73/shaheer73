@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Shaheer 👋 <img align="right" src="https://komarev.com/ghpvc/?username=shaheer73&label=Profile%20views&color=0e75b6&style=flat" alt="shaheer73"</h1>
   
-<img align="right" width="400" height="400" src="https://github.com/shaheer73/shaheer73/blob/main/GIF.gif">
+<img align="right" src="https://github.com/shaheer73/shaheer73/blob/main/GIF.gif">
 
 <h3 align="left">Computer Engineering Student @ UWaterloo</h3>
 
