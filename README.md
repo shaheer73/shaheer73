@@ -5,7 +5,7 @@
 <h3 align="left">Computer Engineering Student @ UWaterloo</h3>
   <img align="right" width="300" height="300" src="https://github.com/shaheer73/shaheer73/blob/main/GIF.gif">
 
-- 🔭 I’m currently working on **a project in Python**
+- 🔭 I’m currently working on **a project in Golang**
   
 
 - 💬 Ask me about **anything software-related!**
